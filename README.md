@@ -1,17 +1,17 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 234.3 kB Used in GitHub's Storage 
+> 📦 234.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,255 Contributions in the Year 2024
+> 🏆 1,260 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
@@ -20,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3661 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌆 Daytime                5038 commits        ███████████░░░░░░░░░░░░░░   43.72 % 
-🌃 Evening                2722 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+🌞 Morning                3661 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌆 Daytime                5042 commits        ███████████░░░░░░░░░░░░░░   43.74 % 
+🌃 Evening                2722 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   2116 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Tuesday                  2750 commits        ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Tuesday                  2750 commits        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 Wednesday                2335 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Thursday                 1848 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Thursday                 1848 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 Friday                   1519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Saturday                 554 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Sunday                   402 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Sunday                   406 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 
 
@@ -72,5 +72,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 13:12:51 UTC
+ Last Updated on 10/03/2024 18:36:55 UTC
 <!--END_SECTION:waka-->
