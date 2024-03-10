@@ -17,8 +17,8 @@ jobs:
           USERNAME: gere-lajos
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name gere-lajos
+          git config user.email gere-lajos@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated 3d contrib charts"
           git push
