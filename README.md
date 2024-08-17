@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C826%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C827%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
 
@@ -40,17 +40,17 @@ Sunday                   1001 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      8 hrs 53 mins       ███████████████████████░░   92.93 % 
-.env file                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+PHP                      8 hrs 58 mins       ███████████████████████░░   92.98 % 
+.env file                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-PhpStorm                 9 hrs 34 mins       █████████████████████████   100.00 % 
+PhpStorm                 9 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -70,5 +70,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:40:43 UTC
+ Last Updated on 17/08/2024 18:41:01 UTC
 <!--END_SECTION:waka-->
