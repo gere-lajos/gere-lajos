@@ -1,15 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,17 +40,17 @@ Sunday                   463 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      6 hrs 28 mins       ████████████████████████░   95.69 % 
-textmate                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+PHP                      8 hrs 41 mins       ████████████████████████░   96.65 % 
+textmate                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-PhpStorm                 6 hrs 45 mins       █████████████████████████   100.00 % 
+PhpStorm                 8 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,5 +70,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 18:41:19 UTC
+ Last Updated on 15/09/2024 18:40:49 UTC
 <!--END_SECTION:waka-->
