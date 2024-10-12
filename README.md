@@ -1,15 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C895%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,17 +40,18 @@ Sunday                   1151 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      12 hrs 9 mins       █████████████████████░░░░   83.18 % 
-TypeScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-.env file                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+PHP                      7 hrs 37 mins       ███████████████████░░░░░░   75.37 % 
+TypeScript               2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+.env file                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-PhpStorm                 14 hrs 37 mins      █████████████████████████   100.00 % 
+PhpStorm                 9 hrs 57 mins       █████████████████████████   98.44 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Mac                      14 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,5 +71,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:42:31 UTC
+ Last Updated on 12/10/2024 18:42:02 UTC
 <!--END_SECTION:waka-->
