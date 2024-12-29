@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C042%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C043%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.4%20million%20lines%20of%20code-blue)
 
@@ -42,17 +42,18 @@ Sunday                   1657 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      9 hrs 43 mins       ███████████████████████░░   92.30 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+PHP                      9 hrs 43 mins       █████████████████████░░░░   84.66 % 
+Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 9 hrs 47 mins       ███████████████████████░░   93.01 % 
-Obsidian                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+PhpStorm                 9 hrs 59 mins       ██████████████████████░░░   86.93 % 
+Obsidian                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 💻 Operating System: 
-Mac                      10 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,5 +73,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:44:47 UTC
+ Last Updated on 29/12/2024 18:43:41 UTC
 <!--END_SECTION:waka-->
