@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.9%20million%20lines%20of%20code-blue)
 
@@ -42,15 +42,17 @@ Sunday                   1613 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 55 mins       ████████████████████████░   96.26 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Markdown                 8 hrs 11 mins       █████████████████████████   99.20 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 55 mins       ████████████████████████░   96.26 % 
-PhpStorm                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Obsidian                 8 hrs 11 mins       █████████████████████████   99.20 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -70,5 +72,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 18:46:24 UTC
+ Last Updated on 05/01/2025 18:42:45 UTC
 <!--END_SECTION:waka-->
