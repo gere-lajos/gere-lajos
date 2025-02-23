@@ -1,13 +1,15 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C228%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 308.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 352 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,18 +42,18 @@ Sunday                   1385 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.01 % 
-PHP                      12 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.16 % 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-.env file                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Blade Template           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+PHP                      14 hrs 1 min        ████████████░░░░░░░░░░░░░   49.32 % 
+Markdown                 12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   42.83 % 
+Blade Template           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+.env file                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-PhpStorm                 17 hrs              ██████████████░░░░░░░░░░░   56.07 % 
-Obsidian                 13 hrs 19 mins      ███████████░░░░░░░░░░░░░░   43.93 % 
+PhpStorm                 16 hrs 16 mins      ██████████████░░░░░░░░░░░   57.18 % 
+Obsidian                 12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   42.82 % 
 
 💻 Operating System: 
-Mac                      30 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -71,5 +73,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:43:13 UTC
+ Last Updated on 23/02/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
