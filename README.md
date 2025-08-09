@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
 
@@ -40,18 +40,15 @@ Sunday                   1706 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 32 mins      █████████████░░░░░░░░░░░░   50.60 % 
-PHP                      11 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.27 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 11 hrs 50 mins      █████████████░░░░░░░░░░░░   52.76 % 
+PHP                      10 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.24 % 
 
 🔥 Editors: 
-Obsidian                 11 hrs 30 mins      █████████████░░░░░░░░░░░░   50.41 % 
-PhpStorm                 11 hrs 19 mins      ████████████░░░░░░░░░░░░░   49.59 % 
+Obsidian                 11 hrs 50 mins      █████████████░░░░░░░░░░░░   52.76 % 
+PhpStorm                 10 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.24 % 
 
 💻 Operating System: 
-Mac                      22 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -71,5 +68,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 18:48:43 UTC
+ Last Updated on 09/08/2025 18:47:15 UTC
 <!--END_SECTION:waka-->
