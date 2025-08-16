@@ -1,13 +1,15 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C771%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C778%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 336.1 kB Used in GitHub's Storage 
+> 📦 336.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,419 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,15 +42,18 @@ Sunday                   1668 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 35 mins      █████████████░░░░░░░░░░░░   52.58 % 
-PHP                      11 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.42 % 
+Markdown                 14 hrs 18 mins      █████████████░░░░░░░░░░░░   50.15 % 
+PHP                      13 hrs 29 mins      ████████████░░░░░░░░░░░░░   47.29 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+.env file                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Obsidian                 12 hrs 35 mins      █████████████░░░░░░░░░░░░   52.58 % 
-PhpStorm                 11 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.42 % 
+Obsidian                 14 hrs 18 mins      █████████████░░░░░░░░░░░░   50.15 % 
+PhpStorm                 14 hrs 13 mins      ████████████░░░░░░░░░░░░░   49.85 % 
 
 💻 Operating System: 
-Mac                      23 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -68,5 +73,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 18:50:35 UTC
+ Last Updated on 16/08/2025 18:45:46 UTC
 <!--END_SECTION:waka-->
