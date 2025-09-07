@@ -1,13 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C822%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 336.1 kB Used in GitHub's Storage 
+> 📦 336.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -40,18 +40,18 @@ Sunday                   1351 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 44 mins       ███████████████████████░░   92.36 % 
-PHP                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Markdown                 8 hrs 9 mins        ███████████████████████░░   92.73 % 
+PHP                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Obsidian                 7 hrs 44 mins       ███████████████████████░░   92.36 % 
-PhpStorm                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Obsidian                 8 hrs 9 mins        ███████████████████████░░   92.73 % 
+PhpStorm                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 💻 Operating System: 
-Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -71,5 +71,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2025 18:46:02 UTC
+ Last Updated on 07/09/2025 18:46:22 UTC
 <!--END_SECTION:waka-->
