@@ -1,15 +1,13 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C225%20hrs%2057%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 386.2 kB Used in GitHub's Storage 
+> 📦 386.5 kB Used in GitHub's Storage 
  > 
-> 🏆 465 Contributions in the Year 2026
+> 🏆 504 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,45 +15,6 @@
  > 
 > 🔑 47 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6552 commits        █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌆 Daytime                8184 commits        ███████████░░░░░░░░░░░░░░   44.45 % 
-🌃 Evening                3584 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌙 Night                  92 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3286 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Tuesday                  4118 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Wednesday                3667 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Thursday                 3077 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Friday                   2563 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Saturday                 1004 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Sunday                   697 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 12 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.56 % 
-PHP                      7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-SQL                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-
-🔥 Editors: 
-PhpStorm                 12 hrs 56 mins      █████████████░░░░░░░░░░░░   52.03 % 
-Obsidian                 11 hrs 56 mins      ████████████░░░░░░░░░░░░░   47.97 % 
-
-💻 Operating System: 
-Mac                      24 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -73,5 +32,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:51:06 UTC
+ Last Updated on 01/02/2026 18:52:10 UTC
 <!--END_SECTION:waka-->
