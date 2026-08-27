@@ -1,17 +1,17 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C879%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C884%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-866%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-870%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 611.4 kB Used in GitHub's Storage 
+> 📦 613.2 kB Used in GitHub's Storage 
  > 
-> 🏆 4,351 Contributions in the Year 2026
+> 🏆 4,370 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,19 +22,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42888 commits       ████████████░░░░░░░░░░░░░   47.09 % 
-🌆 Daytime                36146 commits       ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌃 Evening                11681 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+🌞 Morning                42903 commits       ████████████░░░░░░░░░░░░░   47.10 % 
+🌆 Daytime                36151 commits       ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌃 Evening                11681 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 🌙 Night                  354 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   15896 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Tuesday                  19969 commits       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Wednesday                17919 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Thursday                 15487 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Friday                   14713 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Tuesday                  19969 commits       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Wednesday                17929 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Thursday                 15497 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Friday                   14713 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 Saturday                 4520 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 Sunday                   2565 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
@@ -44,34 +44,34 @@ Sunday                   2565 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 57 mins      ██████████████░░░░░░░░░░░   56.50 % 
-TypeScript               5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Markdown                 4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-PHP                      2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Text                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    22 hrs 52 mins      ██████████████░░░░░░░░░░░   56.20 % 
+Markdown                 4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+TypeScript               4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+PHP                      2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Image (png)              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-Omp                      38 hrs 39 mins      ███████████████████████░░   91.18 % 
-Claude Code              2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Zed                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Exec Wakatime            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Omp                      37 hrs 45 mins      ███████████████████████░░   92.76 % 
+Claude Code              2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Zed                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Exec Wakatime            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      42 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 3 mins (37.89%)
+⏱ AI Coding Time: 15 hrs 38 mins (38.44%)
 
-✍️ 93,984 lines written by AI, 247 lines written by hand (99.74% AI-written)
+✍️ 83,743 lines written by AI, 551 lines written by hand (99.35% AI-written)
 
-🔤 51,833,377 Input Tokens, 302,576 Output Tokens
+🔤 48,062,941 Input Tokens, 247,831 Output Tokens
 
-💵 $264.49 Estimated AI Cost This Week
+💵 $277.20 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 87 AI Prompts
+🧠 44 AI Sessions, 53 AI Prompts
 
 Opus                     33 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -79,10 +79,10 @@ Exec-Wakatime            0 lines             ░░░░░░░░░░░�
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 4,410 characters per prompt
+🤖 AI-Driven — 99.35% of written lines came from AI
+📚 Verbose Prompter — average 6,192 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.63% of changed lines were hand-edited
+🚀 High AI Trust — 1.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -102,5 +102,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 19:38:04 UTC
+ Last Updated on 27/08/2026 22:09:06 UTC
 <!--END_SECTION:waka-->
