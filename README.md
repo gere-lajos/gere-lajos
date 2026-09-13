@@ -1,17 +1,17 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gere_Lajos%F0%9F%92%BB&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C910%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C910%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-896%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-897%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 773.2 kB Used in GitHub's Storage 
+> 📦 773.9 kB Used in GitHub's Storage 
  > 
-> 🏆 4,517 Contributions in the Year 2026
+> 🏆 4,523 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44031 commits       ████████████░░░░░░░░░░░░░   47.45 % 
-🌆 Daytime                37310 commits       ██████████░░░░░░░░░░░░░░░   40.21 % 
-🌃 Evening                11102 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-🌙 Night                  348 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+🌞 Morning                43441 commits       ████████████░░░░░░░░░░░░░   47.38 % 
+🌆 Daytime                37116 commits       ██████████░░░░░░░░░░░░░░░   40.48 % 
+🌃 Evening                10792 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌙 Night                  345 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   16291 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  20931 commits       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Wednesday                18151 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Thursday                 15735 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Friday                   15297 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Saturday                 4101 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Sunday                   2285 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Monday                   16169 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Tuesday                  20815 commits       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Wednesday                17957 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Thursday                 15587 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Friday                   15132 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Saturday                 3887 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Sunday                   2147 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 
@@ -44,44 +44,44 @@ Sunday                   2285 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 27 mins       ███████████████░░░░░░░░░░   60.47 % 
-Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    3 hrs 4 mins        █████████████░░░░░░░░░░░░   53.24 % 
+Markdown                 1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Omp                      4 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.37 % 
-Claude Code              3 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
-VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              3 hrs 46 mins       ████████████████░░░░░░░░░   65.49 % 
+Omp                      1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.12 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 35 mins (73.1%)
+⏱ AI Coding Time: 4 hrs 37 mins (80.07%)
 
-✍️ 97,970 lines written by AI, 14 lines written by hand (99.99% AI-written)
+✍️ 97,127 lines written by AI, 14 lines written by hand (99.99% AI-written)
 
-🔤 42,061,819 Input Tokens, 237,316 Output Tokens
+🔤 39,218,391 Input Tokens, 213,343 Output Tokens
 
-💵 $299.86 Estimated AI Cost This Week
+💵 $297.86 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 47 AI Prompts
+🧠 36 AI Sessions, 49 AI Prompts
 
-Opus                     200 lines           █████████████████████████   100.00 % 
+Opus                     655 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
+📝 Concise Prompter — average 212 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -103,5 +103,5 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gere-lajos/gere-lajos/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 18:54:29 UTC
+ Last Updated on 13/09/2026 18:55:38 UTC
 <!--END_SECTION:waka-->
