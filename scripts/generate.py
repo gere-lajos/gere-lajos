@@ -19,6 +19,7 @@ import math
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -73,13 +74,21 @@ def http_json(url: str, *, headers: dict | None = None, data: bytes | None = Non
         return r.status, json.loads(r.read().decode())
 
 
-def gql(query: str, variables: dict | None = None) -> dict:
+def gql(query: str, variables: dict | None = None, attempts: int = 3) -> dict:
     token = os.environ.get("GH_TOKEN", "")
     if not token:
         raise RuntimeError("GH_TOKEN missing")
-    _, body = http_json("https://api.github.com/graphql",
-                        headers={"Authorization": f"bearer {token}", "Content-Type": "application/json"},
-                        data=json.dumps({"query": query, "variables": variables or {}}).encode())
+    for i in range(attempts):
+        try:
+            _, body = http_json("https://api.github.com/graphql",
+                                headers={"Authorization": f"bearer {token}", "Content-Type": "application/json"},
+                                data=json.dumps({"query": query, "variables": variables or {}}).encode())
+            break
+        except urllib.error.HTTPError as e:  # 502/504 = GraphQL timeout, worth a retry
+            if e.code < 500 or i == attempts - 1:
+                raise
+            log(f"     github graphql HTTP {e.code}, retry {i + 1}")
+            time.sleep(5 * (i + 1))
     if body.get("errors"):
         raise RuntimeError(body["errors"])
     return body["data"]
@@ -95,29 +104,38 @@ def fetch_github() -> dict:
     days = [[x["date"], x["contributionCount"]] for w in cal["weeks"] for x in w["contributionDays"]]
     # Private/org work shows up only as "restricted" in contributionsCollection, so count
     # the owner's commits per recently pushed repo instead. Repo names are never rendered.
-    q = gql("""query($uid:ID!,$since:GitTimestamp!,$prq:String!,$rvq:String!){
-      viewer{repositories(first:100,affiliations:[OWNER,COLLABORATOR,ORGANIZATION_MEMBER],
-        ownerAffiliations:[OWNER,COLLABORATOR,ORGANIZATION_MEMBER],orderBy:{field:PUSHED_AT,direction:DESC}){
-        nodes{pushedAt primaryLanguage{name}
-          defaultBranchRef{target{... on Commit{history(since:$since,author:{id:$uid}){totalCount}}}}}}}
+    q = gql("""query($prq:String!,$rvq:String!){
       prs: search(query:$prq,type:ISSUE){issueCount}
       reviews: search(query:$rvq,type:ISSUE){issueCount}}""",
-            {"uid": d["id"], "since": since,
-             "prq": f"author:{USER} is:pr created:>={since_d}",
+            {"prq": f"author:{USER} is:pr created:>={since_d}",
              "rvq": f"reviewed-by:{USER} -author:{USER} is:pr updated:>={since_d}"})
     langs: dict[str, list[int]] = {}
     commits = repos = 0
-    for node in q["viewer"]["repositories"]["nodes"]:
-        target = (node.get("defaultBranchRef") or {}).get("target") or {}
-        n = (target.get("history") or {}).get("totalCount", 0)
-        if not n:
-            continue
-        name = (node.get("primaryLanguage") or {}).get("name") or "Other"
-        acc = langs.setdefault(name, [0, 0])
-        acc[0] += n
-        acc[1] += 1
-        commits += n
-        repos += 1
+    cursor, done = None, False
+    while not done:  # small pages, newest push first; stop once repos are older than the window
+        page = gql("""query($uid:ID!,$since:GitTimestamp!,$after:String){
+          viewer{repositories(first:25,after:$after,affiliations:[OWNER,COLLABORATOR,ORGANIZATION_MEMBER],
+            ownerAffiliations:[OWNER,COLLABORATOR,ORGANIZATION_MEMBER],orderBy:{field:PUSHED_AT,direction:DESC}){
+            pageInfo{hasNextPage endCursor}
+            nodes{pushedAt primaryLanguage{name}
+              defaultBranchRef{target{... on Commit{history(since:$since,author:{id:$uid}){totalCount}}}}}}}}""",
+                   {"uid": d["id"], "since": since, "after": cursor})["viewer"]["repositories"]
+        for node in page["nodes"]:
+            if (node.get("pushedAt") or "") < since:
+                done = True
+                break
+            target = (node.get("defaultBranchRef") or {}).get("target") or {}
+            n = (target.get("history") or {}).get("totalCount", 0)
+            if not n:
+                continue
+            name = (node.get("primaryLanguage") or {}).get("name") or "Other"
+            acc = langs.setdefault(name, [0, 0])
+            acc[0] += n
+            acc[1] += 1
+            commits += n
+            repos += 1
+        cursor = page["pageInfo"]["endCursor"]
+        done = done or not page["pageInfo"]["hasNextPage"]
     return {
         "total": cal["totalContributions"],
         "days": days,
