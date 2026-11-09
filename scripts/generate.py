@@ -31,7 +31,8 @@ STATIC = {
     "role": "Lead Software Developer @ Helix Digital",
     "langs": "PHP · TypeScript · Python · SQL",
     "stack": "Laravel · Next.js · React · Docker",
-    "pbs": [("5K", "18:20", 1100), ("10K", "38:47", 2327)],  # label, display, seconds
+    # label, display, seconds. HM and marathon: official race chip times only.
+    "pbs": [("5K", "18:20", 1100), ("10K", "38:47", 2327), ("HM", "1:23:11", 4991), ("M", "3:28:00", 12480)],
     "award": "3rd · HCSC'26 cyber challenge",
     "locale": "hu_HU.UTF-8 · Europe/Budapest",
     "status": "open to freelancing · remote only",
@@ -283,8 +284,7 @@ def card_neofetch(c: dict) -> str:
             if ch == "#":
                 b.append(f'<rect x="{34+col*px+3}" y="{84+r*px+3}" width="{px-1.5}" height="{px-1.5}" rx="1.5" fill="@{rows[r]}" opacity="0.18"/>')
                 b.append(f'<rect x="{34+col*px}" y="{84+r*px}" width="{px-1.5}" height="{px-1.5}" rx="1.5" fill="@{rows[r]}"/>')
-    b.append(f'<text x="34" y="{84+7*px+30}" fill="@overlay0" font-size="12">// szia, Lali vagyok</text>')
-    b.append(f'<text x="34" y="{84+7*px+50}" fill="@overlay0" font-size="12">// I build working solutions</text>')
+    b.append(f'<text x="34" y="{84+7*px+30}" fill="@overlay0" font-size="12">// I build working solutions</text>')
     ix = 270
     b.append(f'<text x="{ix}" y="90"><tspan fill="@mauve" font-weight="700">gere-lajos</tspan><tspan fill="@overlay1">@</tspan><tspan fill="@mauve" font-weight="700">github</tspan></text>')
     b.append(f'<line x1="{ix}" y1="101" x2="{ix+17*CW}" y2="101" stroke="@surface2"/>')
