@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="407" height="351" viewBox="0 0 407 351" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+<title>strava · via gerelajos.hu</title>
+<rect x="0.5" y="0.5" width="406" height="350" rx="10" fill="#eff1f5" stroke="#ccd0da"/>
+<path d="M0.5 32 V10.5 a10 10 0 0 1 10 -10 H396.5 a10 10 0 0 1 10 10 V32 Z" fill="#e6e9ef"/>
+<line x1="0.5" y1="32" x2="406.5" y2="32" stroke="#ccd0da"/>
+<circle cx="18" cy="16" r="5.5" fill="#d20f39"/><circle cx="36" cy="16" r="5.5" fill="#df8e1d"/><circle cx="54" cy="16" r="5.5" fill="#40a02b"/>
+<text x="203.5" y="20.5" text-anchor="middle" fill="#8c8fa1" font-size="12">strava · via gerelajos.hu</text>
+<text x="16" y="58"><tspan fill="#40a02b">lali</tspan><tspan fill="#8c8fa1">@</tspan><tspan fill="#1e66f5">budapest</tspan><tspan fill="#8c8fa1"> ~ $ </tspan><tspan fill="#4c4f69">strava --ytd</tspan></text>
+<text x="16" y="96" fill="#40a02b" font-size="30" font-weight="700">4,391<tspan font-size="14" fill="#8c8fa1" font-weight="400"> km in 2026</tspan></text>
+<text x="16" y="124" fill="#8c8fa1">runs</text><text x="391" y="124" text-anchor="end" fill="#4c4f69" font-weight="700">323</text>
+<text x="16" y="144" fill="#8c8fa1">moving time</text><text x="391" y="144" text-anchor="end" fill="#4c4f69" font-weight="700">359 h 56 m</text>
+<text x="16" y="164" fill="#8c8fa1">weekly avg</text><text x="391" y="164" text-anchor="end" fill="#4c4f69" font-weight="700">98 km</text>
+<text x="16" y="196" fill="#9ca0b0" font-size="11.5">last run · 2026-11-08</text>
+<text x="16" y="216" fill="#4c4f69" xml:space="preserve">16.0 km  <tspan fill="#8c8fa1">·</tspan>  1:13:45  <tspan fill="#8c8fa1">·</tspan>  4:36/km  <tspan fill="#8c8fa1">·</tspan>  <tspan fill="#d20f39">♥</tspan> 149</text>
+<text x="16" y="244" fill="#9ca0b0" font-size="11.5">personal bests · pace</text>
+<text x="16" y="266" fill="#df8e1d" font-weight="700">5K</text>
+<rect x="55.0" y="256" width="204" height="10" rx="2" fill="#df8e1d" opacity="0.8"/>
+<text x="391" y="266" text-anchor="end" fill="#4c4f69"><tspan font-weight="700">18:20</tspan><tspan fill="#8c8fa1"> 3:40/km</tspan></text>
+<text x="16" y="288" fill="#df8e1d" font-weight="700">10K</text>
+<rect x="55.0" y="278" width="193" height="10" rx="2" fill="#df8e1d" opacity="0.8"/>
+<text x="391" y="288" text-anchor="end" fill="#4c4f69"><tspan font-weight="700">38:47</tspan><tspan fill="#8c8fa1"> 3:52/km</tspan></text>
+</svg>
