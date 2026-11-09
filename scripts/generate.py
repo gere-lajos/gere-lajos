@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate the profile README cards (terminal style, Catppuccin Mocha + Latte).
 
-Writes assets/cards/<card>-dark.svg and <card>-light.svg plus assets/cards/cache.json.
+Writes assets/cards/profile-dark.svg and profile-light.svg (all cards composed into one\nimage, so widths and gaps are exact) plus assets/cards/cache.json.
 Every data source is optional: when a fetch fails (or WakaTime answers 202 while it
 is still computing), the last good value from cache.json is reused, so a flaky
 upstream never wipes the profile.
@@ -17,6 +17,7 @@ import datetime as dt
 import json
 import math
 import os
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -420,19 +421,45 @@ def card_contrib(c: dict) -> str:
 
 
 # ----------------------------------------------------------------------------- main
+GAP = 16  # vertical and horizontal gap between cards (2 * HW + GAP == W)
+
+
+def place(svg: str, x: float, y: float) -> tuple[str, float]:
+    """Nest a card SVG at (x, y) inside the composed profile image; return it with its height."""
+    m = re.search(r'height="(\d+)"', svg)
+    h = float(m.group(1)) if m else 0
+    return svg.replace("<svg ", f'<svg x="{x}" y="{y}" ', 1), h
+
+
+def compose(data: dict) -> str:
+    """All cards stacked in ONE image: exact widths and gaps regardless of README layout."""
+    parts, y = [], 0.0
+    for fn in (card_neofetch, card_now):
+        svg, h = place(fn(data), 0, y)
+        parts.append(svg)
+        y += h + GAP
+    left, hl = place(card_waka(data), 0, y)
+    right, hr = place(card_run(data), HW + GAP, y)
+    parts += [left, right]
+    y += max(hl, hr) + GAP
+    svg, h = place(card_contrib(data), 0, y)
+    parts.append(svg)
+    y += h
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{y:.0f}" viewBox="0 0 {W} {y:.0f}">\n'
+            f'<title>Gere Lajos (lali@budapest): profile</title>\n' + "\n".join(parts) + "</svg>\n")
+
+
 def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     data = gather()
     CACHE.write_text(json.dumps(data, indent=1, sort_keys=True) + "\n")
-    cards = {"neofetch": card_neofetch, "now": card_now, "waka": card_waka, "run": card_run, "contrib": card_contrib}
     for theme, pal in (("dark", MOCHA), ("light", LATTE)):
         full = dict(pal)
         for i in range(5):  # side faces of the 3D bars
             full[f"l{i}L"] = shade(pal[f"l{i}"], 0.18)
             full[f"l{i}R"] = shade(pal[f"l{i}"], 0.32)
-        for name, fn in cards.items():
-            (OUT / f"{name}-{theme}.svg").write_text(themed(fn(data), full))
-    log(f"wrote {len(cards) * 2} cards to {OUT.relative_to(ROOT)}")
+        (OUT / f"profile-{theme}.svg").write_text(themed(compose(data), full))
+    log(f"wrote profile-dark.svg + profile-light.svg to {OUT.relative_to(ROOT)}")
     return 0
 
 
