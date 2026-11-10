@@ -1,7 +1,7 @@
 {
  "fetched": {
-  "github": "2026-11-09T23:32:35+00:00",
-  "site": "2026-11-09T23:32:37+00:00",
+  "github": "2026-11-10T23:32:22+00:00",
+  "site": "2026-11-10T23:32:24+00:00",
   "waka": "2026-11-09T10:47:37+00:00"
  },
  "github": {
@@ -1472,11 +1472,15 @@
    ],
    [
     "2026-11-10",
+    4
+   ],
+   [
+    "2026-11-11",
     0
    ]
   ],
   "recent": {
-   "commits": 715,
+   "commits": 714,
    "langs": [
     [
      "PHP",
@@ -1485,7 +1489,7 @@
     ],
     [
      "HTML",
-     245,
+     244,
      4
     ],
     [
@@ -1524,18 +1528,14 @@
      1
     ]
    ],
-   "prs": 7,
+   "prs": 8,
    "repos": 34,
    "reviews": 1
   },
-  "total": 6361
+  "total": 6365
  },
  "site": {
   "daily": [
-   {
-    "date": "2025-11-10",
-    "value": 4.53
-   },
    {
     "date": "2025-11-11",
     "value": 3.41
@@ -2990,23 +2990,27 @@
    },
    {
     "date": "2026-11-09",
-    "value": 3.54
+    "value": 6.47
+   },
+   {
+    "date": "2026-11-10",
+    "value": 2.5
    }
   ],
   "stats": {
-   "run_last_avg_heartrate": 134.4,
-   "run_last_date": "2026-11-09",
-   "run_last_distance": 11056.3,
-   "run_last_moving_time": 3505,
-   "run_ytd_count": 324,
-   "run_ytd_distance": 4401576,
-   "run_ytd_moving_time": 1299276,
+   "run_last_avg_heartrate": 147.9,
+   "run_last_date": "2026-11-10",
+   "run_last_distance": 16005.8,
+   "run_last_moving_time": 4184,
+   "run_ytd_count": 325,
+   "run_ytd_distance": 4417582,
+   "run_ytd_moving_time": 1303460,
    "total_clicks": 10869884,
-   "total_codetime": 1672.89,
+   "total_codetime": 1673.79,
    "total_keys": 55041615,
    "total_kms": 805.36,
    "total_scrolls": 11170086,
-   "updated_at": "2026-11-09T23:30:00.617Z"
+   "updated_at": "2026-11-10T23:30:00.843Z"
   }
  },
  "waka": {
