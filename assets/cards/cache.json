@@ -1,39 +1,11 @@
 {
  "fetched": {
-  "github": "2026-11-13T23:32:29+00:00",
-  "site": "2026-11-13T23:32:31+00:00",
+  "github": "2026-11-14T23:32:19+00:00",
+  "site": "2026-11-14T23:32:20+00:00",
   "waka": "2026-11-09T10:47:37+00:00"
  },
  "github": {
   "days": [
-   [
-    "2025-11-09",
-    1
-   ],
-   [
-    "2025-11-10",
-    2
-   ],
-   [
-    "2025-11-11",
-    4
-   ],
-   [
-    "2025-11-12",
-    4
-   ],
-   [
-    "2025-11-13",
-    15
-   ],
-   [
-    "2025-11-14",
-    9
-   ],
-   [
-    "2025-11-15",
-    3
-   ],
    [
     "2025-11-16",
     1
@@ -1488,15 +1460,19 @@
    ],
    [
     "2026-11-14",
+    17
+   ],
+   [
+    "2026-11-15",
     0
    ]
   ],
   "recent": {
-   "commits": 780,
+   "commits": 787,
    "langs": [
     [
      "TypeScript",
-     287,
+     295,
      11
     ],
     [
@@ -1506,7 +1482,7 @@
     ],
     [
      "PHP",
-     109,
+     108,
      7
     ],
     [
@@ -1540,18 +1516,14 @@
      1
     ]
    ],
-   "prs": 19,
+   "prs": 22,
    "repos": 34,
    "reviews": 1
   },
-  "total": 6491
+  "total": 6508
  },
  "site": {
   "daily": [
-   {
-    "date": "2025-11-14",
-    "value": 4.59
-   },
    {
     "date": "2025-11-15",
     "value": 4.14
@@ -3006,23 +2978,27 @@
    },
    {
     "date": "2026-11-13",
-    "value": 2.11
+    "value": 4.75
+   },
+   {
+    "date": "2026-11-14",
+    "value": 2.98
    }
   ],
   "stats": {
-   "run_last_avg_heartrate": 126.5,
-   "run_last_date": "2026-11-13",
-   "run_last_distance": 13475.7,
-   "run_last_moving_time": 4249,
-   "run_ytd_count": 329,
-   "run_ytd_distance": 4468214,
-   "run_ytd_moving_time": 1318989,
+   "run_last_avg_heartrate": 137.6,
+   "run_last_date": "2026-11-14",
+   "run_last_distance": 25495.2,
+   "run_last_moving_time": 7570,
+   "run_ytd_count": 330,
+   "run_ytd_distance": 4493709,
+   "run_ytd_moving_time": 1326559,
    "total_clicks": 10869884,
-   "total_codetime": 1672.68,
+   "total_codetime": 1673.71,
    "total_keys": 55041615,
    "total_kms": 805.36,
    "total_scrolls": 11170086,
-   "updated_at": "2026-11-13T23:30:01.459Z"
+   "updated_at": "2026-11-14T23:30:00.974Z"
   }
  },
  "waka": {
