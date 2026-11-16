@@ -1,7 +1,7 @@
 {
  "fetched": {
-  "github": "2026-11-15T23:32:34+00:00",
-  "site": "2026-11-15T23:32:36+00:00",
+  "github": "2026-11-16T23:32:11+00:00",
+  "site": "2026-11-16T23:32:13+00:00",
   "waka": "2026-11-09T10:47:37+00:00"
  },
  "github": {
@@ -1412,7 +1412,7 @@
    ],
    [
     "2026-11-02",
-    44
+    45
    ],
    [
     "2026-11-03",
@@ -1440,11 +1440,11 @@
    ],
    [
     "2026-11-09",
-    19
+    20
    ],
    [
     "2026-11-10",
-    41
+    46
    ],
    [
     "2026-11-11",
@@ -1452,7 +1452,7 @@
    ],
    [
     "2026-11-12",
-    50
+    54
    ],
    [
     "2026-11-13",
@@ -1460,49 +1460,48 @@
    ],
    [
     "2026-11-14",
-    17
+    18
    ],
    [
     "2026-11-15",
-    5
+    7
    ],
    [
     "2026-11-16",
+    29
+   ],
+   [
+    "2026-11-17",
     0
    ]
   ],
   "recent": {
-   "commits": 767,
+   "commits": 768,
    "langs": [
     [
      "PHP",
-     328,
+     351,
      8
     ],
     [
      "HTML",
-     226,
+     212,
      4
     ],
     [
      "Swift",
-     75,
+     74,
      1
     ],
     [
      "TypeScript",
-     57,
+     56,
      10
     ],
     [
      "Shell",
-     52,
+     54,
      1
-    ],
-    [
-     "Python",
-     11,
-     2
     ],
     [
      "CSS",
@@ -1510,28 +1509,24 @@
      1
     ],
     [
-     "JavaScript",
-     6,
-     6
+     "Python",
+     5,
+     1
     ],
     [
-     "Rust",
-     1,
-     1
+     "JavaScript",
+     5,
+     5
     ]
    ],
-   "prs": 23,
-   "repos": 34,
+   "prs": 27,
+   "repos": 31,
    "reviews": 1
   },
-  "total": 6475
+  "total": 6518
  },
  "site": {
   "daily": [
-   {
-    "date": "2025-11-16",
-    "value": 2.03
-   },
    {
     "date": "2025-11-17",
     "value": 4.53
@@ -2987,22 +2982,26 @@
    {
     "date": "2026-11-15",
     "value": 1.77
+   },
+   {
+    "date": "2026-11-16",
+    "value": 6.33
    }
   ],
   "stats": {
-   "run_last_avg_heartrate": 136.8,
-   "run_last_date": "2026-11-15",
-   "run_last_distance": 9748.4,
-   "run_last_moving_time": 2762,
-   "run_ytd_count": 331,
-   "run_ytd_distance": 4503458,
-   "run_ytd_moving_time": 1329321,
+   "run_last_avg_heartrate": 140.8,
+   "run_last_date": "2026-11-16",
+   "run_last_distance": 10527.9,
+   "run_last_moving_time": 2896,
+   "run_ytd_count": 332,
+   "run_ytd_distance": 4513986,
+   "run_ytd_moving_time": 1332217,
    "total_clicks": 10869884,
-   "total_codetime": 1672.3,
+   "total_codetime": 1676.59,
    "total_keys": 55041615,
    "total_kms": 805.36,
    "total_scrolls": 11170086,
-   "updated_at": "2026-11-15T23:30:01.767Z"
+   "updated_at": "2026-11-16T23:30:00.785Z"
   }
  },
  "waka": {
