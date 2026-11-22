@@ -1,7 +1,7 @@
 {
  "fetched": {
-  "github": "2026-11-21T23:32:18+00:00",
-  "site": "2026-11-21T23:32:20+00:00",
+  "github": "2026-11-22T23:32:04+00:00",
+  "site": "2026-11-22T23:32:05+00:00",
   "waka": "2026-11-09T10:47:37+00:00"
  },
  "github": {
@@ -1464,20 +1464,24 @@
    ],
    [
     "2026-11-22",
+    23
+   ],
+   [
+    "2026-11-23",
     0
    ]
   ],
   "recent": {
-   "commits": 761,
+   "commits": 737,
    "langs": [
     [
      "PHP",
-     343,
-     8
+     337,
+     7
     ],
     [
      "HTML",
-     216,
+     204,
      4
     ],
     [
@@ -1486,18 +1490,13 @@
      1
     ],
     [
-     "Shell",
-     54,
-     1
-    ],
-    [
      "TypeScript",
-     53,
+     54,
      10
     ],
     [
-     "CSS",
-     11,
+     "Shell",
+     54,
      1
     ],
     [
@@ -1509,20 +1508,21 @@
      "JavaScript",
      5,
      5
+    ],
+    [
+     "CSS",
+     4,
+     1
     ]
    ],
-   "prs": 31,
-   "repos": 31,
+   "prs": 30,
+   "repos": 30,
    "reviews": 1
   },
-  "total": 6557
+  "total": 6553
  },
  "site": {
   "daily": [
-   {
-    "date": "2025-11-22",
-    "value": 0.25
-   },
    {
     "date": "2025-11-23",
     "value": 0.1
@@ -2978,22 +2978,26 @@
    {
     "date": "2026-11-21",
     "value": 0.6
+   },
+   {
+    "date": "2026-11-22",
+    "value": 1.5
    }
   ],
   "stats": {
-   "run_last_avg_heartrate": 147.2,
-   "run_last_date": "2026-11-18",
-   "run_last_distance": 10556.6,
-   "run_last_moving_time": 2841,
-   "run_ytd_count": 334,
-   "run_ytd_distance": 4535126,
-   "run_ytd_moving_time": 1337754,
-   "total_clicks": 10966841,
-   "total_codetime": 1674.76,
-   "total_keys": 55324287,
-   "total_kms": 817.69,
-   "total_scrolls": 11355752,
-   "updated_at": "2026-11-21T23:30:00.775Z"
+   "run_last_avg_heartrate": 156.3,
+   "run_last_date": "2026-11-22",
+   "run_last_distance": 10673.3,
+   "run_last_moving_time": 2640,
+   "run_ytd_count": 336,
+   "run_ytd_distance": 4560813,
+   "run_ytd_moving_time": 1344356,
+   "total_clicks": 10967450,
+   "total_codetime": 1676.01,
+   "total_keys": 55324802,
+   "total_kms": 817.81,
+   "total_scrolls": 11358878,
+   "updated_at": "2026-11-22T23:30:01.392Z"
   }
  },
  "waka": {
