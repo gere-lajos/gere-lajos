@@ -1,7 +1,7 @@
 {
  "fetched": {
-  "github": "2026-11-25T23:32:15+00:00",
-  "site": "2026-11-25T23:32:18+00:00",
+  "github": "2026-11-26T23:32:15+00:00",
+  "site": "2026-11-26T23:32:16+00:00",
   "waka": "2026-11-09T10:47:37+00:00"
  },
  "github": {
@@ -1480,30 +1480,34 @@
    ],
    [
     "2026-11-26",
+    4
+   ],
+   [
+    "2026-11-27",
     0
    ]
   ],
   "recent": {
-   "commits": 655,
+   "commits": 636,
    "langs": [
     [
      "PHP",
-     343,
+     339,
      5
     ],
     [
      "HTML",
-     188,
+     177,
      2
     ],
     [
      "Swift",
-     74,
+     72,
      1
     ],
     [
      "TypeScript",
-     39,
+     38,
      5
     ],
     [
@@ -1512,28 +1516,24 @@
      1
     ],
     [
-     "Shell",
-     3,
-     1
-    ],
-    [
      "JavaScript",
      3,
      3
+    ],
+    [
+     "Shell",
+     2,
+     1
     ]
    ],
    "prs": 31,
    "repos": 18,
    "reviews": 1
   },
-  "total": 6580
+  "total": 6584
  },
  "site": {
   "daily": [
-   {
-    "date": "2025-11-26",
-    "value": 3.08
-   },
    {
     "date": "2025-11-27",
     "value": 6.02
@@ -2989,22 +2989,26 @@
    {
     "date": "2026-11-25",
     "value": 1.88
+   },
+   {
+    "date": "2026-11-26",
+    "value": 4.39
    }
   ],
   "stats": {
-   "run_last_avg_heartrate": 144.4,
-   "run_last_date": "2026-11-25",
-   "run_last_distance": 12637.6,
-   "run_last_moving_time": 3593,
-   "run_ytd_count": 341,
-   "run_ytd_distance": 4601393,
-   "run_ytd_moving_time": 1355710,
-   "total_clicks": 10979258,
-   "total_codetime": 1684.16,
-   "total_keys": 55371966,
-   "total_kms": 820.57,
-   "total_scrolls": 11407149,
-   "updated_at": "2026-11-25T23:30:01.726Z"
+   "run_last_avg_heartrate": 105,
+   "run_last_date": "2026-11-26",
+   "run_last_distance": 1152,
+   "run_last_moving_time": 542,
+   "run_ytd_count": 342,
+   "run_ytd_distance": 4602545,
+   "run_ytd_moving_time": 1356252,
+   "total_clicks": 10983728,
+   "total_codetime": 1685.48,
+   "total_keys": 55391488,
+   "total_kms": 821.62,
+   "total_scrolls": 11425499,
+   "updated_at": "2026-11-26T23:30:00.659Z"
   }
  },
  "waka": {
